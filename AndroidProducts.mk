@@ -14,9 +14,4 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/nitrogen_vince.mk
-
-COMMON_LUNCH_CHOICES := \
-    nitrogen_vince-user \
-    nitrogen_vince-userdebug \
-    nitrogen_vince-eng
+    $(LOCAL_DIR)/aosp_vince.mk
