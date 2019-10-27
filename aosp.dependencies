@@ -15,6 +15,6 @@
     "remote":      "github",
     "repository":  "AndroBuddy/kernel_xiaomi_msm8953_vince",
     "target_path": "kernel/xiaomi/msm8953",
-    "branch":      "10.x"
+    "branch":      "9.x"
   }
 ]
