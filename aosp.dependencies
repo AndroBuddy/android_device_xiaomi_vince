@@ -1,4 +1,4 @@
-[
+ [
   {
     "remote":      "github",
     "repository":  "AndroBuddy/proprietary_vendor_xiaomi",
@@ -13,8 +13,8 @@
   },
   {
     "remote":      "github",
-    "repository":  "AndroBuddy/kernel_xiaomi_msm8953_vince",
+    "repository":  "BlackSuan19/android_kernel_dark_ages",
     "target_path": "kernel/xiaomi/msm8953",
-    "branch":      "9.x"
+    "branch":      "darky"
   }
 ]
