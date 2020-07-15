@@ -47,6 +47,11 @@ PRODUCT_PACKAGES += \
 # Properties
 -include device/xiaomi/vince/prop.mk
 
+# Dex
+PRODUCT_DEXPREOPT_SPEED_APPS += \
+    SystemUI \
+    NexusLauncherRelease
+
 # Ramdisk
 PRODUCT_PACKAGES += \
     init.goodix.sh \
