@@ -1,10 +1,14 @@
 [
   {
-    "repository": "r5p-dev/android_kernel_xiaomi_vince",
-    "target_path": "kernel/xiaomi/vince"
+    "remote": "github",
+    "repository": "Blacksuan19/kernel_dark_ages_vince",
+    "target_path": "kernel/xiaomi/vince",
+    "branch": "darky"
   },
   {
-    "repository": "r5p-dev/proprietary_vendor_xiaomi_vince",
-    "target_path": "vendor/xiaomi/vince"
+    "remote": "github",
+    "repository": "AndroBuddy/proprietary_vendor_xiaomi_vince",
+    "target_path": "vendor/xiaomi/vince",
+    "branch": "11.x"
   }
 ]
